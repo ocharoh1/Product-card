@@ -1,8 +1,8 @@
-##  Shoe Store Product Page
+ #  Shoe Store Product Page
 
 A modern, responsive product page for a shoe store built with React and Tailwind CSS. This project showcases a dynamic product view with features like image gallery, color selection, size selection, and product details.
 
-# ## Features
+#  Features
 
 - 📱 Responsive design that works on all devices
 - 🖼️ Interactive image gallery with navigation dots
@@ -12,20 +12,19 @@ A modern, responsive product page for a shoe store built with React and Tailwind
 - 💅 Modern UI with smooth transitions
 - 🎯 Clear product information hierarchy
 
-# ## Technologies Used
+#  Technologies Used
 
 - React
 - Vite
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript 
 
-## # Prerequisites
+ # Prerequisites
 
 Before you begin, ensure you have the following installed:
 - Node.js 
 - npm 
-# 
-## Project Structure
+#  Project Structure
 
 ```
 shoe-store/
@@ -58,8 +57,8 @@ shoe-store/
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/ocharoh1/Product-card.git>
-cd shoe-store
+git clone https://github.com/ocharoh1/Product-card.git
+cd Product-card
 ```
 
 2. Install dependencies:
@@ -74,21 +73,23 @@ npm run dev
 
 4. Open your browser and visit:
 [```
+```console
 http://localhost:5173](https://)
 ```
+```
 
-## # Component Overview
+ #  Component Overview
 
-### ProductsWrapper
+##  ProductsWrapper
 - Main container component
 - Handles layout and responsive behavior
 
-### ShoeType
+##  ShoeType
 - Displays product images
 - Manages image gallery navigation
 - Handles image switching functionality
 
-### ShoeDetails
+ ## ShoeDetails
 - Shows product information
 - Manages color and size selection
 - Handles add to cart functionality
