@@ -72,35 +72,35 @@ npm run dev
 ```
 
 4. Open your browser and visit:
-[```
+
 ```console
 http://localhost:5173]
 ```
 ```
 
-5.  #  Component Overview
+5. #    Component Overview
 
-##  ProductsWrapper
+ ProductsWrapper
 - Main container component
 - Handles layout and responsive behavior
 
-##  ShoeType
+ ShoeType
 - Displays product images
 - Manages image gallery navigation
 - Handles image switching functionality
 
- ## ShoeDetails
+  ShoeDetails
 - Shows product information
 - Manages color and size selection
 - Handles add to cart functionality
 
-## Customization
+ Customization
 
-### Changing Product Images
+ Changing Product Images
 1. Add your images to `src/assets/images/`
 2. Update the imports in `src/data/productData.js`
 
-### Modifying Product Details
+ Modifying Product Details
 Edit `src/data/productData.js` to change:
 - Product name
 - Descriptions
@@ -108,7 +108,7 @@ Edit `src/data/productData.js` to change:
 - Price
 - Images
 
-### Customizing Colors
+ Customizing Colors
 Edit the colors array in `src/components/ShoeDetails.jsx`:
 ```javascript
 const colors = [
