@@ -74,11 +74,11 @@ npm run dev
 4. Open your browser and visit:
 [```
 ```console
-http://localhost:5173](https://)
+http://localhost:5173]
 ```
 ```
 
- #  Component Overview
+5.  #  Component Overview
 
 ##  ProductsWrapper
 - Main container component
