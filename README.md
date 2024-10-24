@@ -147,3 +147,5 @@ npm run preview
 - Verify class names
 - Ensure index.css has Tailwind directives
 
+
+
